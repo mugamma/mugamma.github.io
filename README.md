@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## About 
+I recently graduated UC Berkeley with honors degrees in EECS and Applied
+Mathematics. I am interested in Bayesian machine learning, probabilistic
+programming, and their applications to natural language processing. Currently,
+I am a visiting undergraduate researcher at
+[MIT Probabilistic Computing Project](https://probcomp.csail.mit.edu). Here,
+you can find my [CV](cv.pdf), [transcript](transcript.pdf), and [LinkedIn
+Profile](https://www.linkedin.com/in/mghavami/).
 
-You can use the [editor on GitHub](https://github.com/mugamma/mugamma.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Papers
+- G. Matheos, A. K. Lew, **M. Ghavamizadeh**, S. J. Russell,
+M. F. Cusumano-Towner, and V. K. Mansinghka. "Transforming Worlds: Automated
+Involutive MCMC for Open-Universe Probabilistic Models." [The 3rd Symposium on
+Advances in Approximate Bayesian Inference,
+2021.](http://approximateinference.org/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Posters
+- D. J. Arnold, J. Du, K. Flood, **M. Ghavamizadeh**, B. Kim, C. Parkinson, M.
+Plack, S. Tan, H. Yao, A. L.  Bertozzi, P. J. Brantingham, "Dynamic Topic
+Modeling: Spatiotemporal Analysis of Los Angeles Twitter Data,"
+[Algorithms for Threat Detection (ATD) Annual Workshop Washington, D.C.
+October 10-11, 2018](https://atd2018.soe.ucsc.edu/home) ([pdf](atd-poster.pdf))
 
-### Markdown
+## Awards and Honors
+- [Jack Kent Cooke Foundation](https://jkcf.org) Undergraduate Transfer
+  Scholarship (2018): $40,000 per year for three years, about 40 recipients
+  nationwide.
+- NSF S-STEM Scholarship (2018): $12,000 scholarship awarded to 14
+  undergraduate transfer students at UC Berkeley interested in graduate
+  studies.
+- Member of [Phi Beta Kappa](https://pbk.org) and
+  [Tau Beta Pi](https://tbp.org).
+- [ACM ICPC Southern California Regional](http://socalcontest.org) (2017):
+  division II runner-up.
+- [American Mathematical Association of Two Year Colleges
+  (AMATYC)](https://amatyc.org) Student Mathematics Competition 10th place
+  nation-wide (2017).
+- [RoboCup Regional (IranOpen)](https://iranopen.ir) Junior Soccer: open league
+  quarter-finalist (2013, 14), lightweight league quarter-finalist and
+  super-team champion (2015).
+- Ranked in the top 0.05% in Iran’s National University Entrance Exam (2015).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mugamma/mugamma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Notes and Writings
+- [Probability for Applications (UC Berkeley Stat 204, Fall
+  2019)](204-notes.pdf) (incomplete)
+- [Satz-Beweis Undergraduate Abstract Algebra](algebra-notes.pdf) (there are a
+  few gaps I need to fill in)
+- I'll upload more of these soon!
