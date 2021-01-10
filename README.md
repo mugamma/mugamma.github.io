@@ -5,14 +5,15 @@ programming, and their applications to natural language processing. Currently,
 I am a visiting undergraduate researcher at
 [MIT Probabilistic Computing Project](https://probcomp.csail.mit.edu). Here,
 you can find my [CV](cv.pdf), [transcript](transcript.pdf), and [LinkedIn
-Profile](https://www.linkedin.com/in/mghavami/).
+Profile](https://www.linkedin.com/in/mghavami/). You can contact me at
+[mghavami@berkeley.edu](mailto:mghavami@berkeley.edu)
 
 ## Papers
 - G. Matheos, A. K. Lew, **M. Ghavamizadeh**, S. J. Russell,
 M. F. Cusumano-Towner, and V. K. Mansinghka. "Transforming Worlds: Automated
 Involutive MCMC for Open-Universe Probabilistic Models." [The 3rd Symposium on
 Advances in Approximate Bayesian Inference,
-2021.](http://approximateinference.org/)
+2021.](http://approximateinference.org/) ([pdf](aabi-2021.pdf))
 
 ## Posters
 - D. J. Arnold, J. Du, K. Flood, **M. Ghavamizadeh**, B. Kim, C. Parkinson, M.
