@@ -46,4 +46,4 @@ October 10-11, 2018](https://atd2018.soe.ucsc.edu/home) ([pdf](atd-poster.pdf))
   2019)](204-notes.pdf) (incomplete)
 - [Satz-Beweis Undergraduate Abstract Algebra](algebra-notes.pdf) (there are a
   few gaps I need to fill in)
-- I'll upload more of these soon!
+- [Stirling's Approximation](stirling-approx.pdf)
